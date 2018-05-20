@@ -1,0 +1,3 @@
+Name: upstream
+Method: https://debian-pm-tools.github.io/apt-repo
+VerifyRelease: blindtrust

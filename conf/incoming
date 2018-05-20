@@ -1,0 +1,5 @@
+Name: packages
+IncomingDir: incoming
+Tempdir: tmp
+LogDir: logs
+Default: buster
