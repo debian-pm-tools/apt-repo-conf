@@ -1,3 +1,7 @@
 Name: upstream
 Method: https://debian-pm-tools.github.io/apt-repo
 VerifyRelease: blindtrust
+
+Name: incoming
+Method: https://debian-pm-tools.github.io/incoming-apt-repo/
+VerifyRelease: blindtrust

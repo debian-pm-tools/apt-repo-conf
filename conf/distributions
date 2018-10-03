@@ -5,4 +5,4 @@ Architectures: armhf arm64 amd64 i386 source
 Components: main
 Description: Plasma Mobile, Halium and mainline support packages
 SignWith: C3D7CAFBF442353F95F69F4AA81E075ABEC80A7E
-Update: upstream
+Update: upstream incoming
